@@ -1,5 +1,5 @@
 let user = {
-  name: "rahul",
+  name:  "rahul",
   age: 10,
 };
 
